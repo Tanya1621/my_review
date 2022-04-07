@@ -1,0 +1,12 @@
+.mistakes_p {
+    font-size: 24px;
+    color: black;
+    max-width: 80%;
+    margin: 0 auto 50px;
+    padding: 50px 0;
+    border-top: 3px solid #044d6c;
+    border-bottom: 3px solid #044d6c;
+    line-height: 1.5;
+    text-align: justify;
+  }
+  

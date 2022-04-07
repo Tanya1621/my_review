@@ -1,0 +1,22 @@
+.main__heading {
+    margin: 0 auto;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    font-size: 80px;
+    color: white;
+    transform: translate(-50%, -50%);
+  }
+  
+  @media screen and (max-width: 980px) {
+    .main__heading {
+      font-size: 40px;
+    }
+  }
+  
+  @media screen and (max-width: 500px) {
+    .main__heading {
+      font-size: 24px;
+    }
+  }
+  

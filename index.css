@@ -1,0 +1,45 @@
+@import url(./blocks/page/page.css);
+@import url(./blocks/menu/menu.css);
+@import url(./blocks/menu/__list-item/menu__list-item.css);
+@import url(./blocks/menu/__list-link/menu__list-link.css);
+@import url(./blocks/menu/__list/menu__list.css);
+
+@import url(./blocks/main/main.css);
+@import url(./blocks/main/__photo/main__photo.css);
+@import url(./blocks/main/__heading/main__heading.css);
+@import url(./blocks/about/about.css);
+@import url(./blocks/about/__title/about__title.css);
+@import url(./blocks/about/__story/about__story.css);
+@import url(./blocks/about/__img/about__img.css);
+@import url(./blocks/about/__paragraph/about__paragraph.css);
+
+@import url(./blocks/mistakes/__title/mistakes__title.css);
+@import url(./blocks/mistakes/__image/mistakes__image.css);
+@import url(./blocks/mistakes/__p/mistakes__p.css);
+@import url(./blocks/mistakes/__quote-text/mistakes__quote-text.css);
+@import url(./blocks/mistakes/__quote/mistakes__quote.css);
+@import url(./blocks/mistakes/mistakes.css);
+
+@import url(./blocks/review/__title/review__title.css);
+@import url(./blocks/review/__image/review__image.css);
+@import url(./blocks/review/__p/review__p.css);
+@import url(./blocks/review/review.css);
+
+@import url(./blocks/footer/__copyright/footer__copyright.css);
+@import url(./blocks/footer/footer.css);
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

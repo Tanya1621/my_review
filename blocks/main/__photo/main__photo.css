@@ -1,0 +1,14 @@
+.main__photo {
+    height: 500px;
+    background-image: url(../../../images/main.jpeg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    position: relative;
+  }
+  
+  @media screen and (max-width: 1024px) {
+    .main__photo {
+      height: 300px;
+    }
+  }

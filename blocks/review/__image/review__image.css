@@ -1,0 +1,10 @@
+.review__image{
+    padding: 0;
+    width: 50%;
+  }
+  
+  @media screen and (max-width: 1000px) {
+    .review__image {
+      width: 80%;
+    }
+  }
