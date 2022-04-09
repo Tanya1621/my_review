@@ -2,6 +2,7 @@
     margin: 0;
     margin-bottom: 10px;
     padding-right: 50px;
+    line-height: 1.5;
   }
   
   @media screen and (max-width: 743px) {
