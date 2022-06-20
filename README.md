@@ -1,3 +1,3 @@
 # Мой отзыв на курс Веб-разработчик от Яндекс.Практикума
  
-** Ссылка: https://tanya1621.github.io/my_review/
+**Ссылка: https://tanya1621.github.io/my_review/
